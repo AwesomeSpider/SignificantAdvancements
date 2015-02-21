@@ -1,0 +1,15 @@
+package com.SA.Items;
+
+import net.minecraft.item.Item;
+
+public class MagicalBook extends Item {
+
+	public MagicalBook(String name){
+		setUnlocalizedName(name);
+	}
+	
+	@Override
+	public void onCreated(ItemStack item, World world, EntityPlayer player){
+		
+	}
+}
