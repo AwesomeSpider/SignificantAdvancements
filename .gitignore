@@ -1,3 +1,16 @@
+# Various Stuffs I Need it to Ignore
+README.txt
+MinecraftForge-Licence.txt
+MinecraftForge-Credits.txt
+.classpath
+.project
+CREDITS-fml.txt
+forge-1.7.10-10.13.2.1232-changelog.txt
+gradlew
+LICENCE-fml.txt
+.gradle
+.settings
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
